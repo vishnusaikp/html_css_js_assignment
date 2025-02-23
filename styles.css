@@ -4,6 +4,8 @@ body {
     margin: 0;
 }
 
+
+/* written by VISHNU SAI KP: Define unique class names to avoid collisions  */
 .section2-container {
     min-height: 100vh;
     display: flex;
@@ -120,3 +122,5 @@ body {
         max-width: 100%;
     }
 }
+
+/* written by VISHNU SAI KP: Define unique class names to avoid collisions  */
